@@ -1,0 +1,57 @@
+// git commands
+git init // initialize local git repository
+git add <file> // add file(s) to index
+git rm <file>// remove a file
+git status // check status of working tree
+git commit // commit changes in index
+git touch <file> // add a file
+git push // push to remote repository such as github
+git pull // pull latest version from remote repository
+git clone // clone repository into a new directory
+git branch <file> // create new branch
+git checkout <file> // move to that branch
+git merge // used to merge files 
+
+
+//windows git download link
+http://git-scm.com/download/win
+
+//Mac download line
+http://git-scm.com/download/mac
+
+// Linux (Debian) download
+$sudo apt-get install git
+
+// Linux (Fedora) download
+$sudo yum install git
+
+
+// to do a git commit
+
+git commit
+i
+Initial commit
+escp
+:wq
+
+// fast way
+git commit -m <message>
+
+// git ignore files we dont want in repository
+
+touch .gitignore
+touch log.txt // create file
+// in log.txt type "error logs" in gitignore file type log.txt
+git add.
+git status
+// the log file isn't theree
+
+// create new login branch
+git branch login
+git checkout login
+
+// back to master
+git checkout master
+git merge login
+
+
