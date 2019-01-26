@@ -8,8 +8,8 @@ git touch <file> // add a file
 git push // push to remote repository such as github
 git pull // pull latest version from remote repository
 git clone // clone repository into a new directory
-git branch <file> // create new branch
-git checkout <file> // move to that branch
+git branch <branch name> // create new branch
+git checkout <branch name> // move to that branch
 git merge // used to merge files 
 
 
