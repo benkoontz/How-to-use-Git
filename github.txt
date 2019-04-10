@@ -28,7 +28,7 @@ $sudo yum install git
 
 Steps:
 
-1. do git bash where in a folder location on your computer
+1. do git bash in a folder location on your computer
 2. do git clone  https://github.com/benkoontz/How-to-use-Git
 3. you can add, remove, or make changes to files
 4. commit changes using commit -m "your message"
