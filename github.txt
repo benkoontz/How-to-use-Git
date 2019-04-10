@@ -26,32 +26,12 @@ $sudo apt-get install git
 $sudo yum install git
 
 
-// to do a git commit
+Steps:
 
-git commit
-i
-Initial commit
-escp
-:wq
-
-// fast way
-git commit -m <message>
-
-// git ignore files we dont want in repository
-
-touch .gitignore
-touch log.txt // create file
-// in log.txt type "error logs" in gitignore file type log.txt
-git add.
-git status
-// the log file isn't theree
-
-// create new login branch
-git branch login
-git checkout login
-
-// back to master
-git checkout master
-git merge login
-
+1. do git bash where in a folder location on your computer
+2. do git clone  https://github.com/benkoontz/How-to-use-Git
+3. you can add, remove, or make changes to files
+4. commit changes using commit -m "your message"
+5. make sure your changes are what you want them to be
+6. push to the repository using push "https://github.com/benkoontz/How-to-use-Git"
 
