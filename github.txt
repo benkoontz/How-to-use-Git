@@ -11,6 +11,7 @@ git clone // clone repository into a new directory
 git branch <branch name> // create new branch
 git checkout <branch name> // move to that branch
 git merge // used to merge files 
+git push --force "https://github.com/benkoontz/practice" master
 
 
 //windows git download link
